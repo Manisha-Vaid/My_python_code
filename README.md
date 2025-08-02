@@ -22,5 +22,5 @@
 17. counts words in a string
 18. counts of length of string
 19. this program swap two variables
-20. uses python's random module to pick an integer between 1 to 100 
+20. uses python's random module to pick an integer between 1 to 100
 21. 
