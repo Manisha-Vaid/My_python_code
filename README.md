@@ -18,3 +18,9 @@
 13. this program finds the minimum number in a list number
 14. this program calculates the sum of all elements in a list
 15. this program removes duplicates from the list.
+16. checks if a number in a list or not
+17. counts words in a string
+18. counts of length of string
+19. this program swap two variables
+20. uses python's random module to pick an integer between 1 to 100 
+21. 
